@@ -51,3 +51,6 @@ OR
 https://www.browserstack.com/docs/app-automate/api-reference/xcuitest/overview ( REST API )
 ```
 
+<img width="1440" alt="Screenshot 2022-03-10 at 1 25 39 PM" src="https://user-images.githubusercontent.com/43849911/157614616-2188755f-ce73-4791-b837-5cb5db440440.png">
+<img width="1435" alt="Screenshot 2022-03-10 at 1 25 27 PM" src="https://user-images.githubusercontent.com/43849911/157614651-25989231-d4fd-4051-aaf4-5fdc99dbb6e1.png">
+
