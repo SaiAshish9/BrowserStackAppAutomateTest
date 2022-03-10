@@ -44,5 +44,10 @@ curl -u "csservice_5kdSJB:NsnDysS83Jv81pxXctMz" \
 5. Viewing test results 
 
 ```
-https://app-automate.browserstack.com/dashboard/v2/quick-start/get-started#introduction
+https://app-automate.browserstack.com/dashboard/v2/quick-start/get-started#introduction ( Dashboard )
+
+OR
+
+https://www.browserstack.com/docs/app-automate/api-reference/xcuitest/overview ( REST API )
 ```
+
